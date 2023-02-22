@@ -1,6 +1,5 @@
 #include "holberton.h"
 
-
 /**
   * main - prints _putchar and a new line
   *
